@@ -25,20 +25,18 @@ Does this link now work 'NDM_'
 .. _NDM: https://www.ndm.ox.ac.uk/
 
 
-The NDM_ is a very big department
-
-.. _second-page:second-page.rst
-.. _second-page:/second-page.rst
-
-.. _third-page:third-page.rst
+The NDM_ is a very big department in a big university
 
 
+.. _second-page: second-page
 
+try linking here to 'second-page_'
 
+here is a link to 'bbc_' . 
 
-here is a link to bbc_.
 .. _bbc: http://www.bbc.co.uk
 
-External hyperlinks, like Python_.
+External hyperlinks, like 'Python_'.
+
 .. _Python: https://www.python.org/
 
