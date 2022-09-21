@@ -25,7 +25,7 @@ Does this link now work 'NDM_'
 .. _NDM: https://www.ndm.ox.ac.uk/
 
 
-The _NDM is a very big department
+The NDM_ is a very big department
 
 .. _second-page:second-page.rst
 .. _second-page:/second-page.rst
