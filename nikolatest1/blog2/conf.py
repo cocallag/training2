@@ -16,8 +16,8 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "authorname"  # (translatable)
-BLOG_TITLE = "Not a blog"  # (translatable)
+BLOG_AUTHOR = "Chris O'Callaghan"  # (translatable)
+BLOG_TITLE = "O'Callaghan Group"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://example.com/"
@@ -25,7 +25,7 @@ SITE_URL = "https://example.com/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
 BLOG_EMAIL = "chris.ocallaghan@ndm.ox.ac.uk"
-BLOG_DESCRIPTION = "This is a demo site for Nikola software."  # (translatable)
+BLOG_DESCRIPTION = "O'Callaghan Group Research Website"  # (translatable)
 
 # Nikola is multilingual!
 #

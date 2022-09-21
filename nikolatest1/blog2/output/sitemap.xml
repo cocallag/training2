@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://example.com/archive.html</loc>
-  <lastmod>2022-09-16T09:47:00Z</lastmod>
+  <lastmod>2022-09-21T16:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/blog/</loc>
@@ -35,7 +35,7 @@
  </url>
  <url>
   <loc>https://example.com/listings/hello.py.html</loc>
-  <lastmod>2022-09-16T09:47:00Z</lastmod>
+  <lastmod>2022-09-21T16:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/pages/</loc>

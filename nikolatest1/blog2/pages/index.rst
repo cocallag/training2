@@ -7,16 +7,25 @@
 .. description: 
 .. type: text
 
-Write your page here.
-This is my webpage front page
-This is bold **bold**
-This is up to date again
-
 
 ==================
-this is a heading
+Overview
 ==================
-this text added at 16:44 on 21st sept 2022
+We study the functional genomics of inflammatory metabolic disease with a particular interest in atherosclerois.
+
+
+Departmental website: https://www.ndm.ox.ac.uk/
+
+Our department is the 'NDM <https://www.ndm.ox.ac.uk/>'
+
+
+
+Does this link now work 'NDM_'
+
+.. _NDM: https://www.ndm.ox.ac.uk/
+
+
+The _NDM is a very big department
 
 .. _second-page:second-page.rst
 .. _second-page:/second-page.rst
