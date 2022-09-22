@@ -152,8 +152,10 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ("index", "Home"),
         ("research", "Research"),
-        ("categories/", "Tags"),
+        ("people", "People"),
+        #("categories/", "Tags"),
         ("publications","Publications"),
         ("contact", "Contact")
     ),

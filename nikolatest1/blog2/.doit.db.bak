@@ -132,3 +132,6 @@
 'render_sources:output\\pages\\contact\\index.rst', (290304, 242)
 'render_posts:cache\\pages\\publications.html', (290816, 369)
 'render_pages:output\\pages\\contact\\index.html', (291328, 4404)
+'render_pages:output\\pages\\people\\index.html', (295936, 4399)
+'render_sources:output\\pages\\people\\index.rst', (300544, 240)
+'render_posts:cache\\pages\\people.html', (301056, 351)
