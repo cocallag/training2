@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://cocallag.github.io/training2/pages/</loc>
-  <lastmod>2022-09-23T16:22:00Z</lastmod>
+  <lastmod>2022-09-23T16:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/training2/pages/about-nikola/</loc>
@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://cocallag.github.io/training2/pages/archive.html</loc>
-  <lastmod>2022-09-23T16:37:00Z</lastmod>
+  <lastmod>2022-09-23T16:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/training2/pages/bootstrap-demo/</loc>
@@ -79,7 +79,7 @@
  </url>
  <url>
   <loc>https://cocallag.github.io/training2/pages/listings/hello.py.html</loc>
-  <lastmod>2022-09-23T16:37:00Z</lastmod>
+  <lastmod>2022-09-23T16:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/training2/pages/path-handlers/</loc>
@@ -100,6 +100,10 @@
  <url>
   <loc>https://cocallag.github.io/training2/pages/quickstart/</loc>
   <lastmod>2022-09-23T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/research/</loc>
+  <lastmod>2022-09-23T16:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/training2/pages/second-page/</loc>
