@@ -35,15 +35,23 @@
  </url>
  <url>
   <loc>https://cocallag.github.io/training2/pages/pages/</loc>
-  <lastmod>2022-09-22T13:01:00Z</lastmod>
+  <lastmod>2022-09-23T16:01:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/training2/pages/pages/about-nikola/</loc>
   <lastmod>2022-09-16T09:47:00Z</lastmod>
  </url>
  <url>
+  <loc>https://cocallag.github.io/training2/pages/pages/archive.html</loc>
+  <lastmod>2022-09-23T16:01:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://cocallag.github.io/training2/pages/pages/bootstrap-demo/</loc>
   <lastmod>2022-09-16T09:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/pages/categories/</loc>
+  <lastmod>2022-09-23T16:01:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/training2/pages/pages/charts/</loc>
@@ -80,6 +88,18 @@
  <url>
   <loc>https://cocallag.github.io/training2/pages/pages/listings-demo/</loc>
   <lastmod>2022-09-16T09:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/pages/listings/</loc>
+  <lastmod>2022-09-23T16:01:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/pages/listings/__pycache__/</loc>
+  <lastmod>2022-09-23T16:01:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/pages/listings/hello.py.html</loc>
+  <lastmod>2022-09-23T16:01:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/training2/pages/pages/path-handlers/</loc>
