@@ -71,7 +71,7 @@
 'copy_assets:output\\assets\\css\\ipython.min.css', (80384, 416)
 'copy_files:output\\images\\nikola.png', (80896, 254)
 'render_galleries:output\\galleries\\rss.xml', (81408, 3048)
-'sitemap:output\\sitemap.xml', (170496, 4523)
+'sitemap:output\\sitemap.xml', (170496, 4524)
 'render_listings:output\\listings\\__pycache__\\index.html', (88576, 2027)
 'render_posts:cache\\pages\\dr-nikolas-vendetta.html', (90624, 386)
 'render_posts:cache\\pages\\internals.html', (91136, 355)

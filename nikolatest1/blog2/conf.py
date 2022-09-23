@@ -152,9 +152,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("../", "Home"),
+        #("../", "Home"),
         ("research", "Research"),
-        ("people", "People"),
+        ("/people/", "People"),
         #("categories/", "Tags"),
         ("publications","Publications"),
         ("contact", "Contact")
@@ -265,7 +265,9 @@ PAGES = (
     ("pages/*.html", "pages", "page.tmpl"),
 )
 
-INDEX_PATH = "blog"
+DISABLE_INDEXES = True
+
+#INDEX_PATH = "blog"
 
 # Below this point, everything is optional
 
