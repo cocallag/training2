@@ -6,19 +6,19 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://example.com/galleries/demo/rss.xml</loc>
-  <lastmod>2022-09-23T13:22:00Z</lastmod>
+  <loc>https://cocallag.github.io/training2/galleries/demo/rss.xml</loc>
+  <lastmod>2022-09-23T13:48:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/galleries/rss.xml</loc>
-  <lastmod>2022-09-23T13:22:00Z</lastmod>
+  <loc>https://cocallag.github.io/training2/galleries/rss.xml</loc>
+  <lastmod>2022-09-23T13:48:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/rss.xml</loc>
-  <lastmod>2022-09-21T16:26:00Z</lastmod>
+  <loc>https://cocallag.github.io/training2/rss.xml</loc>
+  <lastmod>2022-09-23T13:48:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2022-09-23T13:22:00Z</lastmod>
+  <loc>https://cocallag.github.io/training2/sitemap.xml</loc>
+  <lastmod>2022-09-23T13:48:00Z</lastmod>
  </sitemap>
 </sitemapindex>
