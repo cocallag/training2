@@ -155,6 +155,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         #("../", "Home"),
         ("/index.html", "Home"),
+        ("/research/", "Research"),
         ("/people/index.html", "People"),
         ("/publications/","Publications"),
         ("contact", "Contact")
