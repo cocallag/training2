@@ -20,7 +20,7 @@ BLOG_AUTHOR = "Chris O'Callaghan"  # (translatable)
 BLOG_TITLE = "O'Callaghan Group"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://example.com/"
+SITE_URL = "https://cocallag.github.io/training2/nikolatest1/blog2"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
