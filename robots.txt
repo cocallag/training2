@@ -1,0 +1,4 @@
+Sitemap: https://cocallag.github.io/training2/sitemapindex.xml
+
+User-Agent: *
+Host: cocallag.github.io
