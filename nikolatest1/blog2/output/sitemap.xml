@@ -6,12 +6,44 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
+  <loc>https://cocallag.github.io/training2/pages/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/about-nikola/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://cocallag.github.io/training2/pages/archive.html</loc>
-  <lastmod>2022-09-23T15:51:00Z</lastmod>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/bootstrap-demo/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/training2/pages/categories/</loc>
   <lastmod>2022-09-16T09:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/charts/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/contact/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/creating-a-theme/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/dr-nikolas-vendetta/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/extending/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/training2/pages/galleries/</loc>
@@ -20,6 +52,22 @@
  <url>
   <loc>https://cocallag.github.io/training2/pages/galleries/demo/</loc>
   <lastmod>2022-09-16T09:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/handbook/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/html-page1/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/internals/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/listings-demo/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/training2/pages/listings/</loc>
@@ -31,27 +79,19 @@
  </url>
  <url>
   <loc>https://cocallag.github.io/training2/pages/listings/hello.py.html</loc>
-  <lastmod>2022-09-23T15:51:00Z</lastmod>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/training2/pages/pages/</loc>
-  <lastmod>2022-09-23T16:01:00Z</lastmod>
+  <lastmod>2022-09-23T16:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/training2/pages/pages/about-nikola/</loc>
   <lastmod>2022-09-16T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>https://cocallag.github.io/training2/pages/pages/archive.html</loc>
-  <lastmod>2022-09-23T16:01:00Z</lastmod>
- </url>
- <url>
   <loc>https://cocallag.github.io/training2/pages/pages/bootstrap-demo/</loc>
   <lastmod>2022-09-16T09:47:00Z</lastmod>
- </url>
- <url>
-  <loc>https://cocallag.github.io/training2/pages/pages/categories/</loc>
-  <lastmod>2022-09-23T16:01:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/training2/pages/pages/charts/</loc>
@@ -90,18 +130,6 @@
   <lastmod>2022-09-16T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>https://cocallag.github.io/training2/pages/pages/listings/</loc>
-  <lastmod>2022-09-23T16:01:00Z</lastmod>
- </url>
- <url>
-  <loc>https://cocallag.github.io/training2/pages/pages/listings/__pycache__/</loc>
-  <lastmod>2022-09-23T16:01:00Z</lastmod>
- </url>
- <url>
-  <loc>https://cocallag.github.io/training2/pages/pages/listings/hello.py.html</loc>
-  <lastmod>2022-09-23T16:01:00Z</lastmod>
- </url>
- <url>
   <loc>https://cocallag.github.io/training2/pages/pages/path-handlers/</loc>
   <lastmod>2022-09-16T09:47:00Z</lastmod>
  </url>
@@ -136,5 +164,41 @@
  <url>
   <loc>https://cocallag.github.io/training2/pages/pages/third-page/</loc>
   <lastmod>2022-09-16T10:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/path-handlers/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/people/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/publications/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/quickref/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/quickstart/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/second-page/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/social_buttons/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/theming/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/training2/pages/third-page/</loc>
+  <lastmod>2022-09-23T16:22:00Z</lastmod>
  </url>
 </urlset>

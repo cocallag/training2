@@ -154,10 +154,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         #("../", "Home"),
-        ("research", "Research"),
-        ("/people/", "People"),
-        #("categories/", "Tags"),
-        ("publications","Publications"),
+        ("/index.html", "HomeResearch"),
+        ("/people/index.html", "People"),
+        ("/publications/","Publications"),
         ("contact", "Contact")
     ),
 }
@@ -258,12 +257,15 @@ POSTS = ()
 #    ("posts/*.md", "posts", "post.tmpl"),
 #    ("posts/*.txt", "posts", "post.tmpl"),
 #    ("posts/*.html", "posts", "post.tmpl"),
+#    ("posts/*.ipynb", "blog", "post.tmpl"),
+
 #)
 PAGES = (
-    ("pages/*.rst", "pages", "page.tmpl"),
-    ("pages/*.md", "pages", "page.tmpl"),
-    ("pages/*.txt", "pages", "page.tmpl"),
-    ("pages/*.html", "pages", "page.tmpl"),
+    ("pages/*.rst", "", "page.tmpl"),
+    ("pages/*.md", "", "page.tmpl"),
+    ("pages/*.txt", "", "page.tmpl"),
+    ("pages/*.html", "", "page.tmpl"),
+    ("pages/*.ipynb", "", "page.tmpl"),
 )
 
 DISABLE_INDEXES = True
