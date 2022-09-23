@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://cocallag.github.io/training2/pages/galleries/demo/rss.xml</loc>
-  <lastmod>2022-09-23T16:35:00Z</lastmod>
+  <lastmod>2022-09-23T16:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://cocallag.github.io/training2/pages/galleries/rss.xml</loc>
-  <lastmod>2022-09-23T16:35:00Z</lastmod>
+  <lastmod>2022-09-23T16:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://cocallag.github.io/training2/pages/rss.xml</loc>
@@ -19,6 +19,6 @@
  </sitemap>
  <sitemap>
   <loc>https://cocallag.github.io/training2/pages/sitemap.xml</loc>
-  <lastmod>2022-09-23T16:35:00Z</lastmod>
+  <lastmod>2022-09-23T16:37:00Z</lastmod>
  </sitemap>
 </sitemapindex>
